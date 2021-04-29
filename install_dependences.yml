@@ -1,0 +1,14 @@
+name: dev_lenght_depencences
+channels:
+ - conda-forge
+ - default
+dependencies:
+ - conda
+ - python>=3.7
+ - pip
+ - qt=5.9
+ - pyqt=5.9
+ - numpy
+ - matplotlib
+ - math
+ - pandas

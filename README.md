@@ -21,36 +21,34 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 
 <br />
 <p align="center">
-  <a href="https://github.com/josearangoj/Development_lenght_NSR_10">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+<a href="https://github.com/josearangoj/Development_lenght_NSR_10">
+  <img src="images/logo.png" alt="Logo" width="80" height="80">
+</a>
 
 <h3 align="center">Development Lenght NSR-10</h3>
 
 <p align="center">
     Calculate the development Lenght for each rebar based on the reglament NSR-10 from Colombia, using a GUI.
 
-    <br />
-    <a href="https://github.com/josearangoj/Development_lenght_NSR_10"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/josearangoj/Development_lenght_NSR_10">View Demo</a>
-    ·
-    <a href="https://github.com/josearangoj/Development_lenght_NSR_10/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/josearangoj/Development_lenght_NSR_10/issues">Request Feature</a>
-  </p>
+```html
+<br />
+<a href="https://github.com/josearangoj/Development_lenght_NSR_10"><strong>Explore the docs »</strong></a>
+<br />
+<br />
+<a href="https://github.com/josearangoj/Development_lenght_NSR_10">View Demo</a>
+·
+<a href="https://github.com/josearangoj/Development_lenght_NSR_10/issues">Report Bug</a>
+·
+<a href="https://github.com/josearangoj/Development_lenght_NSR_10/issues">Request Feature</a>
+```
+
+</p>
 </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -72,11 +70,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -84,18 +78,21 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+This is the principal window, when the user can get the development lenght of all the rebar numbers.
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`josearangoj`, `Development_lenght_NSR_10`, `twitter_handle`, `ingjdaj@gmail.com`, `Development Lenght NSR-10`, `Calculate the development Lenght for each rebar based on the reglament NSR-10 from Colombia, using a GUI.
-`
+  [![Logo](G:\Personal%20Data\My%20Folders\Jose%20Arango\Programación\01_Phyton\00_Longitud_de_Desarrollo\images\1.Program.PNG)](https://github.com/josearangoj/Development_lenght_NSR_10)
 
 ### Built With
 
-* []()
-* []()
-* []()
+- conda
+- python>=3.7
+- pip
+- qt=5.9
+- pyqt=5.9
+- numpy
+- matplotlib
+- math
+- pandas
 
 <!-- GETTING STARTED -->
 
@@ -105,74 +102,41 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-
-* npm
-  
-  ```sh
-  npm install npm@latest -g
-  ```
+I suggest to install anaconda package. You can download for free in: [Anaconda | Individual Edition](https://www.anaconda.com/products/individual)
 
 ### Installation
 
-1. Clone the repo
+1. Clone the repo on a local folder
    
    ```sh
    git clone https://github.com/josearangoj/Development_lenght_NSR_10.git
    ```
-2. Install NPM packages
+
+2. Install packages and create an enviroment using **.yml** file. You may write this on **anaconda prompt**
    
    ```sh
-   npm install
+   conda env -f create install_dependences.yml
    ```
 
 <!-- USAGE EXAMPLES -->
 
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+1.  Execute the project
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+2. On the principal window, fill the required information:
+   
+   ![Logo](G:\Personal%20Data\My%20Folders\Jose%20Arango\Programación\01_Phyton\00_Longitud_de_Desarrollo\images\Step_1.png)
 
-<!-- ROADMAP -->
-
-## Roadmap
-
-See the [open issues](https://github.com/josearangoj/Development_lenght_NSR_10/issues) for a list of proposed features (and known issues).
-
-<!-- CONTRIBUTING -->
-
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<!-- LICENSE -->
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
+3. On the principal window, fill the required information: [![Logo](images/Step_2.png)
 
 <!-- CONTACT -->
 
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - ingjdaj@gmail.com
+Your Name - ingjdaj@gmail.com
 
 Project Link: [https://github.com/josearangoj/Development_lenght_NSR_10](https://github.com/josearangoj/Development_lenght_NSR_10)
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## Acknowledgements
-
-* []()
-* []()
-* []()
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
