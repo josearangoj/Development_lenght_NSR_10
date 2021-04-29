@@ -117,7 +117,7 @@ I suggest to install anaconda package. You can download for free in: [Anaconda |
 
 ## Usage
 
-1.  Execute the project
+1. Execute the file **main_gui.py** 
 
 2. On the principal window, fill the required information:
    
