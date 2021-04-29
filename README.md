@@ -27,12 +27,9 @@
 
 <br />
 <p align="center">
-<a href="https://github.com/josearangoj/Development_lenght_NSR_10">
-  <img src="images/logo.png" alt="Logo" width="80" height="80">
-</a>
+<img src="images/logo.PNG" alt="Logo" width="80" height="80">
 
 <h3 align="center">Development Lenght NSR-10</h3>
-
 <p align="center">
     Calculate the development Lenght for each rebar based on the reglament NSR-10 from Colombia, using a GUI.
 
