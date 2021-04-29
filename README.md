@@ -27,7 +27,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.PNG" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Development Lenght NSR-10</h3>
@@ -75,7 +75,7 @@
 
 This is the principal window, when the user can get the development lenght of all the rebar numbers.
 
-  [![Logo](G:\Personal%20Data\My%20Folders\Jose%20Arango\Programación\01_Phyton\00_Longitud_de_Desarrollo\images\1.Program.PNG)](https://github.com/josearangoj/Development_lenght_NSR_10)
+  <img src="images/1.Program.PNG" alt="1.Program">
 
 ### Built With
 
@@ -121,15 +121,15 @@ I suggest to install anaconda package. You can download for free in: [Anaconda |
 
 2. On the principal window, fill the required information:
    
-   ![Logo](G:\Personal%20Data\My%20Folders\Jose%20Arango\Programación\01_Phyton\00_Longitud_de_Desarrollo\images\Step_1.png)
+   <img src="images/Step_1.png" alt="1.Program">
 
-3. On the principal window, fill the required information: [![Logo](images/Step_2.png)
+3. On the principal window, fill the required information: [![Step_2](images/Step_2.png)
 
 <!-- CONTACT -->
 
 ## Contact
 
-Your Name - ingjdaj@gmail.com
+Jose David Arango - ingjdaj@gmail.com
 
 Project Link: [https://github.com/josearangoj/Development_lenght_NSR_10](https://github.com/josearangoj/Development_lenght_NSR_10)
 
