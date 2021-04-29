@@ -24,28 +24,26 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
-
 <br />
 <p align="center">
-<img src="images/logo.PNG" alt="Logo" width="80" height="80">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
 
-<h3 align="center">Development Lenght NSR-10</h3>
-<p align="center">
+  <h3 align="center">Development Lenght NSR-10</h3>
+
+  <p align="center">
     Calculate the development Lenght for each rebar based on the reglament NSR-10 from Colombia, using a GUI.
-
-```html
-<br />
-<a href="https://github.com/josearangoj/Development_lenght_NSR_10"><strong>Explore the docs »</strong></a>
-<br />
-<br />
-<a href="https://github.com/josearangoj/Development_lenght_NSR_10">View Demo</a>
-·
-<a href="https://github.com/josearangoj/Development_lenght_NSR_10/issues">Report Bug</a>
-·
-<a href="https://github.com/josearangoj/Development_lenght_NSR_10/issues">Request Feature</a>
-```
-
-</p>
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+  </p>
 </p>
 
 <!-- TABLE OF CONTENTS -->
